@@ -3,3 +3,6 @@ A Git recognisez the files in the respository.
 
 Q How is the staging area different from the working directory and the repository? What value do you think it offers?
 A No idea.
+
+Q How can you use the staging area to make sure you have one commit per logical change?
+A No idea.
