@@ -14,3 +14,6 @@ From interview: I usually create a new branch when I'm moving on to a different 
 
 5) Q How do the diagrams help you visualize the branch structure?
 A That's where diagrams are for isn't it? It helps you visualize wich commits you will see when using git log on that branch.
+
+6) Q What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A You merge one branch commits into the other branch, for example a new feature branch is working than you want to merge it with the master branch. Also when you work on a feature branch you regulalry want to merge the master (if changed) into the feature branch to work with the most recent code. The branch you checkouted will be updated, so that why that new 'commmit' of the merge has the label of the branch you checked out.
