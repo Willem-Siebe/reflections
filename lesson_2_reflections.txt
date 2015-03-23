@@ -17,3 +17,5 @@ A That's where diagrams are for isn't it? It helps you visualize wich commits yo
 
 6) Q What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A You merge one branch commits into the other branch, for example a new feature branch is working than you want to merge it with the master branch. Also when you work on a feature branch you regulalry want to merge the master (if changed) into the feature branch to work with the most recent code. The branch you checkouted will be updated, so that why that new 'commmit' of the merge has the label of the branch you checked out.
+
+From Udacity: Master has updated since the easy-mode branch was created. In this case, it has the addition of coins, which you might like to include in the easy-mode branch. In general, it’s very common that if you make a branch, either an experimental branch or to work on a new feature, you want to periodically merge master into that branch. This is because master usually contains the official version of the code, and it’s common to want experimental changes to include all of the changes to master.
