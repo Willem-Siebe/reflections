@@ -2,7 +2,7 @@ Q What happens when you initialize a repository? Why do you need to do it?
 A Git recognisez the files in the respository.
 
 Q How is the staging area different from the working directory and the repository? What value do you think it offers?
-A No idea.
+A The working directory is where you change/experiment with code, when ready you add it to the staging so you know this file is ready to be committed to the repository, which is the basicly the live enviroment/code if you ask me.
 
 Q How can you use the staging area to make sure you have one commit per logical change?
 A No idea.
