@@ -5,7 +5,7 @@ Q How is the staging area different from the working directory and the repositor
 A The working directory is where you change/experiment with code, when ready you add it to the staging so you know this file is ready to be committed to the repository, which is the basicly the live enviroment/code if you ask me.
 
 Q How can you use the staging area to make sure you have one commit per logical change?
-A No idea.
+A You can use the command git diff --staged to checkout the differences between the files in your staging area and the most recent commit in your git repository to make sure you only commit ONE logical change.
 
 Q What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A When you try experimental features which you don't know yet if it's going to work. Or an italian version. Master is good for fixbug, adding new feature, update docs.
