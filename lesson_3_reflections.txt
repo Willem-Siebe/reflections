@@ -4,4 +4,4 @@ When you have others that collaberate as well, when you work from multiple compu
 
 2) Q Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-To keep in charge. Testchange.
+To keep in charge. Testchange. Testchange 2.
