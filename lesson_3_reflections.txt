@@ -5,3 +5,7 @@ When you have others that collaberate as well, when you work from multiple compu
 2) Q Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 To keep in charge. Testchange. Testchange 2. Testchange 3.
+
+3) Q What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When you work offline you still have the most recent commits from others.
